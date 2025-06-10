@@ -14,5 +14,5 @@
 
 🎯 Summer Goal: Expand into Linux, C, and cybersecurity tooling (Docker, TryHackMe, Wireshark, etc.)
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com)
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/henry-kopp-321650327/)
 
