@@ -7,8 +7,8 @@
 - [Course Scheduler (Java)]() – full-featured GUI for class scheduling and waitlists
 - [Postfix Calculator (Python)]() – stack-based expression evaluator using custom data structures
 - [JBOD Filesystem Client (C)]() – TCP socket client with custom protocol, caching, and trace-based testing
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a powerlifter/strongman and can squat 650 lbs
+😄 Pronouns: He/Him
+⚡ Fun fact: I am a powerlifter/strongman and can squat 650 lbs
 
 🎯 Summer Goal: Expand into Linux, C, and cybersecurity tooling (TryHackMe, Wireshark, etc.)
 
