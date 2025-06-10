@@ -12,7 +12,7 @@
 
 ⚡ Fun fact: I am a powerlifter/strongman and can squat 650 lbs
 
-🎯 Summer Goal: Expand into Linux, C, and cybersecurity tooling (TryHackMe, Wireshark, etc.)
+🎯 Summer Goal: Expand into Linux, C, and cybersecurity tooling (Docker, TryHackMe, Wireshark, etc.)
 
 📫 Let's connect on [LinkedIn](https://www.linkedin.com)
 
