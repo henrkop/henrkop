@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I’m Henry Kopp
 
-<!--
-**henrkop/henrkop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior Computer Science major at Penn State (Class of 2027)  
+🔐 Interested in cybersecurity, national defense tech, and software in service of the public sector  
+💻 Languages: Java, Python, C | Tools: Linux, Unbutu, NMAP, VSCode, NetBeans, Derby DB, Autocad  
+🛠️ Projects:
+- [Course Scheduler (Java)]() – full-featured GUI for class scheduling and waitlists
+- [Postfix Calculator (Python)]() – stack-based expression evaluator using custom data structures
+- [JBOD Filesystem Client (C)]() – TCP socket client with custom protocol, caching, and trace-based testing
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a powerlifter/strongman and can squat 650 lbs
 
-Here are some ideas to get you started:
+🎯 Summer Goal: Expand into Linux, C, and cybersecurity tooling (TryHackMe, Wireshark, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's connect on [LinkedIn](https://www.linkedin.com)
+
