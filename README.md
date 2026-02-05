@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Henry Kopp
 
 🎓 Junior Computer Science major at Penn State (Class of 2027)  
-🔐 Interested in SIGINT, Cybersecurity, national defense tech, and software Engineering 
-💻 Languages: Java, Python, C, SQL | Tools: Linux, Unbutu, Wireshark, NMAP, VSCode, NetBeans, Derby DB, Autocad  
+🔐 Interested in Software Engineering, SIGINT, Electronic Warfare, and National Defense Tech 
+💻 Languages: Java, Python, C, SQL, MATLAB | Tools: Linux, Unbutu, Wireshark, NMAP, VSCode, NetBeans, Derby DB, Autocad  
 
 
 😄 Pronouns: He/Him
